@@ -1,0 +1,31 @@
+ 
+body {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Kristen ITC',cursive;
+    color: rgb(226, 12, 12);
+    background-color: #e7eb05;
+  }
+
+  #header-nav{
+      background-color:#fff;
+      border-radius:0;
+      border:0;
+      
+  }
+#under{
+    text-decoration: none;
+}
+  .navbar-brand a:hover, .navbar-brand a:focus {
+      text-decoration: none;
+  }
+  .navbar-brand h1 {
+      font-size:1.5em;
+      text-transform:uppercase;
+      font-weight: bold;
+      text-shadow: 1px 1px 1px #222;
+      margin-top:0;
+      margin-bottom:0;
+      line-height: .75;
+
+  }
